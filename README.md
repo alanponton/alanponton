@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Alan 👋
 
-<!--
-**alanponton/alanponton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX designer and full-stack developer who ships production software end to end.
+Twenty plus years across enterprise programming, network administration, and security
+operations. Now focused on designing and building AI-augmented products that real
+people use.
 
-Here are some ideas to get you started:
+**What I'm building**
+- 🗺️ [Lonnie's Locations](https://alanponton.com/projects/lonnies-locations) — travel
+  advisor platform, live with paying users
+- 🛡️ [2100 Security](https://alanponton.com/projects/2100-security) — three iterations
+  of a security operations platform
+- 🤖 [Follow This Model](https://followthismodel.com) — AI Twin product for creators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How I work**
+Research, design, ship. I use AI development tools (Claude, GPT) as a force
+multiplier, not a crutch. I read code, modify code, debug code, and build
+production grade products with a small footprint.
+
+**Find me**
+🌐 [alanponton.com](https://alanponton.com) · 📍 Dallas, TX
